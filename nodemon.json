@@ -1,0 +1,6 @@
+{
+    "env":{
+        "monGpass": "Babalola",
+        "Jwtkey": "newjwtkey"
+    }
+}
